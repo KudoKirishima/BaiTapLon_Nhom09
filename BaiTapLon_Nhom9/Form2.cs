@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BaiTapLon_Nhom9
 {
-    public partial class Form2 : Form
+    public partial class frmQuanLy : Form
     {
-        public Form2()
+        public frmQuanLy()
         {
             InitializeComponent();
         }

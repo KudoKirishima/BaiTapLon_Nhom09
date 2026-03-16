@@ -8,3 +8,4 @@ E:\Visualstudio\BaiTapLon_Nhom9\obj\Debug\BaiTapLon_Nhom9.csproj.GenerateResourc
 E:\Visualstudio\BaiTapLon_Nhom9\obj\Debug\BaiTapLon_Nhom9.csproj.CoreCompileInputs.cache
 E:\Visualstudio\BaiTapLon_Nhom9\obj\Debug\BaiTapLon_Nhom9.exe
 E:\Visualstudio\BaiTapLon_Nhom9\obj\Debug\BaiTapLon_Nhom9.pdb
+E:\Visualstudio\BaiTapLon_Nhom9\obj\Debug\BaiTapLon_Nhom9.frmQuanLy.resources
