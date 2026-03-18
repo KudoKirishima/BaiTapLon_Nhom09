@@ -16,5 +16,17 @@ namespace BaiTapLon_Nhom9
         {
             InitializeComponent();
         }
+
+        private void btInhd_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Đã in hợp đồng" , "Thông báo" , 
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void btThemhd_Click(object sender, EventArgs e)
+        {
+            frmThemHopDong f = new frmThemHopDong();
+            f.ShowDialog();
+        }
     }
 }
