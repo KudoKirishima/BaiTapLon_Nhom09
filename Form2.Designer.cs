@@ -109,6 +109,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tpTaiKhoan.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
@@ -143,6 +144,7 @@
             // 
             // tpTaiKhoan
             // 
+            this.tpTaiKhoan.Controls.Add(this.button6);
             this.tpTaiKhoan.Controls.Add(this.button5);
             this.tpTaiKhoan.Controls.Add(this.textBox2);
             this.tpTaiKhoan.Controls.Add(this.textBox1);
@@ -954,6 +956,15 @@
             this.button3.Text = "Thoát";
             this.button3.UseVisualStyleBackColor = false;
             // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(578, 82);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(236, 54);
+            this.button6.TabIndex = 20;
+            this.button6.Text = "Huy ĐB";
+            this.button6.UseVisualStyleBackColor = true;
+            // 
             // frmQuanLy
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -1070,5 +1081,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn txtDonGia;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Button btnTimKiem;
+        private System.Windows.Forms.Button button6;
     }
 }
