@@ -148,5 +148,15 @@ namespace BaiTapLon_Nhom9
                 MessageBox.Show("Không tìm thấy phòng có mã: " + maTimKiem, "Kết quả");
             }
         }
+
+        private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
